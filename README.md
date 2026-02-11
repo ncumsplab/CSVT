@@ -1,7 +1,4 @@
 # CSVT
-## Task1 Dataset: https://drive.google.com/file/d/1xsw6pIHPMbJ8XFdHYsGJV6DQ6gkwFyDs/view
-## Task2 Dataset: https://drive.google.com/file/d/1To0cJaQDkn1VTjSqYONTR2CNNMjFf6h5/view
-## Task3 Dataset: https://drive.google.com/file/d/1iici36drDn-DfHpV6dV-jz-srDRpn5ae/view
 
 ---
 
@@ -14,3 +11,9 @@ The challenges of the competition involve multi-style text, multiple languages, 
 If using the dataset, CSVT, please cite the following paper:
 
 Su, P. C., Lee, M. C., Tung, Y. T., Chen, L. Z., Han, C. H., & Kuo, T. Y. (2025). LICS: Locating Inter-Character Spaces for Multilingual Scene Text Detection. Sensors (Basel, Switzerland), 26(1), 197. https://doi.org/10.3390/s26010197
+
+---
+
+## Task1 Dataset: https://drive.google.com/file/d/1xsw6pIHPMbJ8XFdHYsGJV6DQ6gkwFyDs/view
+## Task2 Dataset: https://drive.google.com/file/d/1To0cJaQDkn1VTjSqYONTR2CNNMjFf6h5/view
+## Task3 Dataset: https://drive.google.com/file/d/1iici36drDn-DfHpV6dV-jz-srDRpn5ae/view
